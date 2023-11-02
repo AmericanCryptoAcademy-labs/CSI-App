@@ -220,6 +220,7 @@ const IssueCertificate = () => {
                     <FormControl style={{padding:'1rem' }}>
                     <Select placeholder='Select Certificate' size='lg' style={{padding:'0.4rem 3rem' , border:'2px solid #4c5773' , borderRadius:'1rem'}}  >
                         <option value='option1'>American Crypto Academy</option>
+                        <option value='option2'>Mentorland</option>
                     </Select>
                   
                     </FormControl>
